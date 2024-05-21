@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:enabled="true"
+        android:icon="@drawable/round_home_24"
+        android:title="Home"/>
+
+    <item
+        android:id="@+id/accounts"
+        android:enabled="true"
+        android:icon="@drawable/round_account_balance_24"
+        android:title="Accounts"/>
+
+    <item
+        android:id="@+id/notification"
+        android:enabled="true"
+        android:icon="@drawable/round_notifications_24"
+        android:title="Notifications"/>
+
+    <item
+        android:id="@+id/account"
+        android:enabled="true"
+        android:icon="@drawable/round_account_circle_24"
+        android:title="Settings"/>
+</menu>

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">BMS</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="submit">Submit</string>
+    <string name="customers">Customers</string>
+    <string name="tellers">Tellers</string>
+    <string name="branch">Branch</string>
+    <string name="customer_fab_content_desc">Add Customer</string>
+    <string name="zip">🇰🇪 +254</string>
+    <string name="phone">Phone</string>
+    <string name="f_name">First Name</string>
+    <string name="l_name">Last Name</string>
+    <string name="c_password">Confirm Password</string>
+    <string name="add_cust">Add Customer</string>
+    <string name="id_num">ID Number</string>
+    <string name="add_emp">Add Employee</string>
+    <string name="pos">Position</string>
+    <string name="add_bra">Add Branch</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="terms">" I authorize prospective Credit Grantors/Lending/Leasing Companies to obtain personal and credit information about me from my employer and credit bureau, or credit reporting agency, any person who has or may have any financial dealing with me, or from any references I have provided. This information, as well as that provided by me in the application, will be referred to in connection with this lease and any other relationships we may establish from time to time. Any personal and credit information obtained may be disclosed from time to time to other lenders, credit bureaus or other credit reporting agencies. "</string>
+
+</resources>
